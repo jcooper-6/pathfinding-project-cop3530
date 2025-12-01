@@ -1,0 +1,41 @@
+# ========================================
+# Visual Studio Generated Files
+# ========================================
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build directories
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+ipch/
+
+# Build artifacts
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.ipdb
+*.iobj
+*.pch
+*.tlog
+*.log
+
+# Cache files
+*.opendb
+*.VC.db
+*.cache
+*.tmp
+
+# ========================================
+# ALLOW SFML TO BE COMMITTED
+# ========================================
+!SFML-2.6.1/
+!SFML-2.6.1/**
