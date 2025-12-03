@@ -3,6 +3,11 @@ Pathfinding Visualizer (SFML)
 This project is a pathfinding visualizer built in C++ using SFML 2.6.1.
 It allows you to draw terrain, set start/goal points, and watch two algorithms, Dijkstra’s Algorithm and A* Search explore the grid and find a path.
 
+Instructions for running the code:
+SFML is in the github repo and the project settings should link to it using relative paths.
+Running in visual studio will probably be the easiest.
+
+
 Features
 
 Interactive grid: 630×310 cells (195,300 total)
