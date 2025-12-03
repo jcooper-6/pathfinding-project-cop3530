@@ -16,4 +16,5 @@ public:
 
     void draw(sf::RenderWindow& window);
     
+    void update_label(std::string);
 };

@@ -35,3 +35,7 @@ void Button::draw(sf::RenderWindow& window) {
     window.draw(shape);
     window.draw(text);
 }
+
+void Button::update_label(std::string new_label) {
+    text.setString(new_label);
+}
